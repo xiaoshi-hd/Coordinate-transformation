@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\成果\C#\3.坐标转换\坐标转换\坐标转换\bin\Debug\坐标转换.exe.config
+C:\Users\Administrator\Desktop\成果\C#\3.坐标转换\坐标转换\坐标转换\bin\Debug\坐标转换.exe
+C:\Users\Administrator\Desktop\成果\C#\3.坐标转换\坐标转换\坐标转换\bin\Debug\坐标转换.pdb
+C:\Users\Administrator\Desktop\成果\C#\3.坐标转换\坐标转换\坐标转换\obj\Debug\坐标转换.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\成果\C#\3.坐标转换\坐标转换\坐标转换\obj\Debug\坐标转换.Form1.resources
+C:\Users\Administrator\Desktop\成果\C#\3.坐标转换\坐标转换\坐标转换\obj\Debug\坐标转换.Properties.Resources.resources
+C:\Users\Administrator\Desktop\成果\C#\3.坐标转换\坐标转换\坐标转换\obj\Debug\坐标转换.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\成果\C#\3.坐标转换\坐标转换\坐标转换\obj\Debug\坐标转换.exe
+C:\Users\Administrator\Desktop\成果\C#\3.坐标转换\坐标转换\坐标转换\obj\Debug\坐标转换.pdb
+C:\Users\xiaoshi\Desktop\完成\国赛版\3.坐标转换\坐标转换\坐标转换\bin\Debug\坐标转换.exe.config
+C:\Users\xiaoshi\Desktop\完成\国赛版\3.坐标转换\坐标转换\坐标转换\obj\Debug\坐标转换.exe
+C:\Users\xiaoshi\Desktop\完成\国赛版\3.坐标转换\坐标转换\坐标转换\obj\Debug\坐标转换.pdb
+G:\C#\0.2018国赛\0.国赛其他算法程序\7..坐标转换\坐标转换\坐标转换\bin\Debug\坐标转换.exe.config
+G:\C#\0.2018国赛\0.国赛其他算法程序\7..坐标转换\坐标转换\坐标转换\obj\Debug\坐标转换.exe
+G:\C#\0.2018国赛\0.国赛其他算法程序\7..坐标转换\坐标转换\坐标转换\obj\Debug\坐标转换.pdb
